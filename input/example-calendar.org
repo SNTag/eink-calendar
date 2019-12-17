@@ -1,0 +1,15 @@
+#+TITLE: Example calendar
+
+* heading1
+
+** heading2a
+
+*** Birthday party
+Bilbo's party
+SCHEDULED: <2019-12-18 Wed 14:30>
+
+** heading2b
+
+*** Flight to Mordor
+Because you can't just *walk* there!
+SCHEDULED: <2019-12-25 Wed 07:00>

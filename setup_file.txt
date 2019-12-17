@@ -1,0 +1,9 @@
+# This file is to identify variables necessary for the python script to run
+
+
+
+# Home Directory (l5)
+~/eink-calendar/
+
+# org calendar file location (l8)
+/media/iDropbox/Dropbox/org-files/life/calendar.org
